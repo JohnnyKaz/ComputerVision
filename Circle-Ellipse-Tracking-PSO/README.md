@@ -20,6 +20,6 @@ In this repository, you will find an implementation of **Particle Swarm Optimiza
 
 ---
 
-This project was implemented as part of **CS472: Computer Vision** 
+This project was implemented as part of [**CS472: Computer Vision**](https://users.ics.forth.gr/~argyros/cs472.html) 
 
-(Computer Science Dpt., University of Crete, Spring semester 2023)
+(Computer Science Dpt., University of Crete, Spring semester 2022-2023)
